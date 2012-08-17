@@ -57,10 +57,10 @@ body {
 }
 
 a {
-  color: #2879d0;
+  color: #77d228;
 }
 a:hover {
-  color: #2268b2;
+  color: #77d228;
 }
 
 header {
@@ -82,7 +82,7 @@ header h1 {
 
 header h2 {
   font-size: 26px;
-  color: #9ddcff;
+  color: #D9FCC5;
   font-weight: normal;
   line-height: 1.3;
   width: 540px;
