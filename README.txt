@@ -1,3 +1,91 @@
+## Changes for 1.4.2:
+
+# armor
+- changed dyable leather armor
+
+# art
+- added a few paintings (work STILL in progress...)
+
+# environment
+- changed clouds.png
+- added lightmap0.png (HDPatcher/Optifine)
+
+# font
+- added a custom font
+
+# gui
+- new:
+  beacon.png
+  repair.png
+-edited:
+  book.png
+  gui.png
+  icons.png
+  inventory.png
+  items.png
+
+# misc
+- edited biome color files (HDPatcher/Optifine):
+  fogcolor0.png
+  foliagecolor.png
+  grasscolor.png
+  skycolor0.png
+  underwatercolor.png
+  watercolorX.png
+
+# mobs
+- added bat skin
+- fixed pigzombie skin
+- added wither skeleton skin
+- added wither skin
+- added witch skin
+- added golem skin
+- fixed wolf skins
+- fixed zombie skins
+
+# terrain
+- added moon phases.png
+- added BetterSkies additional sky texture  (HDPatcher):
+  sky1.png
+  sky2.png
+  sky3.png
+  sky1.properties
+  sky2.properties
+  sky3.properties
+  sky4.properties
+
+# title
+- edited mojang.png
+
+# ctm (HDPatcher/Optifine)
+- added color.properties
+- added lots of CTM:
+  BetterGlass
+  pillar CTM for the 5 slab versions
+  fences and fence gates
+  3 different wooden log tops
+  buttons
+  pressure plates
+  connected book cases with new top
+  random long grass
+
+- fixed particles.png
+
+# fixed terrain.png:
+- fixed emerald
+- added beacon block
+- added command block
+- added item frame
+- added flower pot
+- added carrots and potatoes
+- added anvil
+- fixed ladder again
+- fixed redstone stuff
+- fixed emerald ore
+- fixed the 3 new wooden planks
+- fixed wooden planks
+- added/changed sandstone textures
+
 ## Changes for 1.3.2:
 
 # armor
